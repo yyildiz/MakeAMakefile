@@ -1,3 +1,8 @@
+/* Author: Yusuf Yildiz
+ * Description: A basic Makefile creation program.
+ * Date: November 26, 2015
+ */
+
 #include <iostream>
 #include <fstream>
 #include <string>
